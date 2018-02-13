@@ -6,4 +6,5 @@ Hi there,
   Please see Project report for the detailed desctiption for the machine learning techniques utilized in this project. 
 
 Regards, 
+
 Hsiu-Hui Shelly Tseng
